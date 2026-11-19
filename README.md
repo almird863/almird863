@@ -43,9 +43,8 @@ I enjoy exploring new technologies, solving programming challenges and turning i
 <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode" />
 </p>
 
-🚀 Featured Projects
-🍔 Truck Place
-
+# 🚀 Featured Projects
+### 🍔 Truck Place
 A food truck discovery and review platform.
 
 An independent Full-Stack project inspired by restaurant review platforms, developed to connect users with food truck experiences.
