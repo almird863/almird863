@@ -35,7 +35,7 @@ I enjoy exploring new technologies, solving programming challenges and turning i
 
 ## Back-End
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,python" />
 </p>
 
 ## Database & Tools
