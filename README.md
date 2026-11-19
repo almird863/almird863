@@ -55,15 +55,15 @@ An independent Full-Stack project inspired by restaurant review platforms, devel
 
 Features:
 
-User authentication and session management.
-Google authentication integration.
-REST API development.
-Comment creation and retrieval.
-Interactive interface and dynamic JavaScript functionalities.
+- User authentication and session management.
+- Google authentication integration.
+- REST API development.
+- Comment creation and retrieval.
+- Interactive interface and dynamic JavaScript functionalities.
 
 Technologies: HTML, CSS, JavaScript, Node.js, Express and MongoDB.
 
-🔗 Explore Truck Place
+🔗 [Explore Truck Place](https://almird863.github.io/truck-place/)
 
 🎯 Current Focus
 Improving Full-Stack development skills.
