@@ -59,20 +59,20 @@ Features:
 
 Technologies: HTML, CSS, JavaScript, Node.js, Express and MongoDB.
 
-🔗 [Explore Truck Place](https://almird863.github.io/truck-place/)
+- 🔗 [Explore Truck Place](https://almird863.github.io/truck-place/)
 
-🎯 Current Focus
-Improving Full-Stack development skills.
-Exploring application security concepts.
-Learning secure coding practices.
-Building more complex applications.
-Strengthening software engineering fundamentals.
-📫 Let's Connect
+# 🎯 Current Focus
+- Improving Full-Stack development skills.
+- Exploring application security concepts.
+- Learning secure coding practices.
+- Building more complex applications.
+- Strengthening software engineering fundamentals.
 
+## 📫 Let's Connect
 I'm open to professional opportunities, internships, collaborations and connections with people passionate about technology.
 
-LinkedIn: Almir Dantas
-GitHub: @almird863
+- LinkedIn: [Almir Dantas](https://www.linkedin.com/in/almir-dantas-72b731450/)
+- GitHub: @almird863
 
 <p align="center">
 <i>"Building, learning and improving — one commit at a time."</i>
