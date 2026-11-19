@@ -1,4 +1,4 @@
-👨‍💻 Almir Dantas
+# 👨‍💻 Almir Dantas
 Full-Stack Web Developer | JavaScript • Node.js • Python
 
 <p align="center">
@@ -14,7 +14,7 @@ Building digital experiences, developing applications and exploring secure softw
 </a>
 </p>
 
-🚀 About Me
+# 🚀 About Me
 
 I'm a Full-Stack Web Developer passionate about technology, software engineering and building practical digital solutions.
 
@@ -22,26 +22,23 @@ Currently studying Data Security at Faculdade Senac, with a growing interest in 
 
 I enjoy exploring new technologies, solving programming challenges and turning ideas into functional applications.
 
-💻 Focused on Full-Stack Web Development.
-🔐 Interested in Application Security and Secure Development.
-🌱 Continuously learning and improving my technical skills.
-🌎 Advanced English proficiency.
-🛠️ Building independent projects and exploring new technologies.
-🧰 Tech Stack
-Front-End
-
+- 💻 Focused on Full-Stack Web Development.
+- 🔐 Interested in Application Security and Secure Development.
+- 🌱 Continuously learning and improving my technical skills.
+- 🌎 Advanced English proficiency.
+- 🛠️ Building independent projects and exploring new technologies.
+- 🧰 Tech Stack
+## Front-End
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-Back-End
-
+## Back-End
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 </p>
 
-Database & Tools
-
+## Database & Tools
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode" />
 </p>
